@@ -1,0 +1,4 @@
+HDCD
+import database(web_tbdt),open folder code trong vsc
+HDSD
+chay web trên localhost sử dụng các chức nang
